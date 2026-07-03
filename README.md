@@ -10,9 +10,9 @@ A full-stack real-time football tactical analysis system using computer vision. 
 
 ## 🎯 Demo
 
-[![Football AI Analyzer Demo](https://img.youtube.com/vi/rg9ep6jsX0s/maxresdefault.jpg)](https://youtu.be/rg9ep6jsX0s)
+> Upload a match video → real-time detection, tracking, speed overlay, and tactical radar
 
-> Real-time player tracking, speed overlay (km/h), Voronoi spatial control, and tactical radar — streamed live via WebSocket
+<video src="https://github.com/LazyTacoz/football-ai-analyzer/assets/demo.mp4" controls width="100%"></video>
 
 ---
 

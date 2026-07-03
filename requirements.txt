@@ -1,0 +1,35 @@
+# ============================================================
+# Football AI Analysis Pipeline - Dependencies
+# ============================================================
+# Core Framework
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+
+# Computer Vision & ML
+opencv-python==4.9.0.80
+numpy==1.26.4
+scikit-learn==1.4.0
+scipy==1.12.0
+
+# Roboflow Ecosystem
+supervision==0.19.0
+inference==0.9.25
+
+# YOLO (alternative to inference)
+ultralytics==8.1.0
+
+# Dimensionality Reduction (for advanced clustering)
+umap-learn==0.5.5
+
+# Video Processing
+imageio[ffmpeg]==2.34.0
+
+# Async Support
+aiofiles==23.2.1
+
+# Type Hints & Validation
+pydantic==2.6.1
+
+# Progress Tracking
+tqdm==4.66.2

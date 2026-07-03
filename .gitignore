@@ -1,0 +1,61 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+dist/
+.npm
+
+# Model weights (too large for git)
+*.pt
+*.pth
+*.onnx
+
+# Datasets
+powerfoot/
+football-players-detection-1/
+datasets/
+
+# Training outputs
+football_model_v3/
+football_model_v4/
+football_model_v5/
+runs/
+
+# App data
+uploads/
+outputs/
+static/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Archives
+*.zip
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

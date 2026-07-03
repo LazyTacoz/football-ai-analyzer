@@ -12,7 +12,7 @@ A full-stack real-time football tactical analysis system using computer vision. 
 
 > Upload a match video → real-time detection, tracking, speed overlay, and tactical radar
 
-https://github.com/LazyTacoz/football-ai-analyzer/blob/main/assets/demo.mp4
+<video src="https://github.com/LazyTacoz/football-ai-analyzer/assets/demo.mp4" controls width="100%"></video>
 
 ---
 

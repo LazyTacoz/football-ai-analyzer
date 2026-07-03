@@ -94,6 +94,10 @@ football-ai-analyzer/
 
 ## 🚀 Setup
 
+### Model Weights
+Download `football.pt` from https://drive.google.com/file/d/1GqS2SUG3tHUQUl-TS4iNA-BW2Qmh0Jz6/view?usp=sharing
+and place in the project root.
+
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
